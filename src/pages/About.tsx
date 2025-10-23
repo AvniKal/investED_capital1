@@ -53,20 +53,17 @@ const About = () => {
             <h2 className="text-3xl md:text-4xl font-bold mb-8 text-center">Our Story</h2>
             <div className="prose prose-lg max-w-none text-muted-foreground">
               <p className="text-lg leading-relaxed mb-6">
-                InvestEd capital was founded with a simple yet powerful vision: to make quality financial 
-                education accessible to everyone, regardless of their background or experience level. 
-                We recognized that traditional financial education was often complex, expensive, and 
-                inaccessible to the average person.
+                At InvestEd Capital, we are a new-age investment management firm driven by data, discipline, and diversification. Founded by a team of 12 certified professionals holding NISM Series 8, NISM Series 15, and SEBI Investor Awareness certifications, our mission is to make smart investing accessible, effective, and empowering for everyone.
               </p>
               <p className="text-lg leading-relaxed mb-6">
-                Our founders, a team of seasoned investors and educators, came together to create 
-                a platform that breaks down complex financial concepts into digestible, actionable 
-                lessons. We believe that everyone deserves the opportunity to build wealth and secure 
-                their financial future.
+                We specialize in multi-asset fund management, offering diversified exposure across crypto, forex, Indian and U.S. indices, and other high-potential markets. Our investment approach combines technical precision with fundamental insight, ensuring every decision is backed by rigorous research, strategy, and risk management.
+              </p>
+              <p className="text-lg leading-relaxed mb-6">
+                Beyond fund management, we’re passionate about empowering investors through education. InvestEd Capital Academy provides industry-relevant courses in Technical Analysis, Fundamental Analysis, Smart Money Concepts (SMC), and Inner Circle Trading (ICT) — designed to help individuals trade and invest with confidence, clarity, and consistency.
+
               </p>
               <p className="text-lg leading-relaxed">
-                Today, we serve thousands of students, professionals, and entrepreneurs worldwide, 
-                helping them navigate the complex world of investing with confidence and clarity.
+                At InvestEd Capital, we don’t just manage capital — we grow knowledge, build trust, and create wealth together.
               </p>
             </div>
           </div>
